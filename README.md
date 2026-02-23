@@ -1,5 +1,6 @@
 # Syncro
 Enterprise-Grade Project Management &amp; Collaboration Platform  A multi-tenant, real-time SaaS platform built for teams to plan, manage, and synchronize their work seamlessly.
+
 🌟 Overview
 
 Syncro is a production-ready, multi-page project management application designed with scalability, performance, and accessibility in mind.
